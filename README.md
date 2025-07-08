@@ -5,4 +5,4 @@
 - ✨ Futura Desenvolvedora de Visual Novels 😎
 - 📍 Iniciante em Python e PHP
 - 🦋 Pronomes: Ela/Dela
-- 📫 Email de Contato: karlagirl688@gmail.com## Hi there 👋
+- 📫 Email de Contato: karlagirl688@gmail.com
